@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isovauxa.github.io/sitemap_index.isovauxa
